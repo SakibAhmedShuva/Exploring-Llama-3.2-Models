@@ -124,8 +124,4 @@ The notebooks document the performance and adherence of different models to the 
 
 ## License
 
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Please feel free to fork the repository and submit a pull request.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
